@@ -1,0 +1,68 @@
+Assignment Questions
+
+1. Write a simple program in HTML that displays th: heading "HTML defines the content and structure of your websie"on the web browser?
+Ans.  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello HTML Example</title>
+</head>
+<body>
+    <h1>HTML defines the content and structure of your website</h1>
+</body>
+</html>
+
+2.  Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML documents?
+Ans.The purpose of comments in HTML is it is part of code that should not be parsed.
+Example - <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Comments Example</title>
+</head>
+<!--THIS IS MY FIRST HTML CODE-->
+<body>
+ <P>HII HTML</P>   
+</body>
+</html>
+
+3.  Write an HTML program that includes a heading a paragraph of text, a horizontal line, and a line break.Arrange these elements to create a simple web page layout?
+Ans. <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello HTML</title>
+</head>
+<body>
+    <h1>HELLO HTML</h1>
+    <P>THIS IS A FIRST PARAGRAPH </P>
+    <HR><!--Horizontal Line--></HR>
+    <p>THIS IS A SECOND PARAGRAPH</p>
+    <BR><!--Break Line--></BR>
+    <p>THIS IS A THIRD PARAGRAPH</p>
+</body>
+</html>
+
+4.  Writ: a short note on Tag and element with an example?
+Ans. Tag: It is represent the root of an html document.
+     Example: <p>THIS IS A PARAGRAPH</p>
+     <P>THIS IS OPENING TAG AND </P> THIS IS CLOSING / ENDING TAG.
+     Elements: It is defined a start tag,some content and a end tag.
+     Example: <h1>Hello HTML</h1>
+     <H1>THIS IS START TAG , Hello HTML IS CONTENT AND </H1> IT IS END TAG.
+
+5. What is the DOCTYPE Declaration in HTML?
+Ans. The DOCTYPE declaration specifies the type and version of HTML being used in the document.This declaration informs the web browser or parser about the rules and specifications it should follow while rendering the page.
+It essentially tells the browser which version of HTML the document adheres to.Full Stack Web Development..
+
+ 
+
+
+
+
+
+
+
